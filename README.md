@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SHREKWAZOVSKI
-- 👀 I am interested in the crypto field and development in the field of validators and ambassadors. Also I am an operator of nodes such as Lava, ZetaChain. Shardeum, Subspace, Over Protocol, Holograpgh, Massa & Nibiru. At the moment I am the ambassador of the Nibiru project
+- 👀 I am interested in the crypto field and development in the field of validators and ambassadors. I have a 2 years expirience of being node operator. Also for now am an operator of nodes such as Lava, ZetaChain. Shardeum, Subspace, Over Protocol, Holograpgh, Massa & Nibiru. At the moment I am the ambassador of the Nibiru project
 - 💞️ I’m looking to collaborate on new projects, for example Namada, Penumbra, Mantra Chain & Eigen Layer
 - 📫 How to reach me: Discord ID shrekwazovski
 
